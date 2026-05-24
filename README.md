@@ -1,6 +1,3 @@
-# Apex Options Intelligence v0.2 Update
-- حذف عبارة بدون شارتات
-- محاولة جلب Yahoo Finance option chain
-- حساب Greeks تقديرية
-- fallback demo إذا فشل المصدر
-ارفع الملفات فوق المشروع القديم في GitHub ثم Commit.
+# Apex Options Intelligence v0.3
+
+Uses Finnhub live stock price via FINNHUB_API_KEY. Options are still estimated until a real options provider is connected.
